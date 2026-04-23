@@ -1,5 +1,4 @@
 # Data Structures Implementation (C++)
-### Capital University of Science and Technology (CUST) - Fall 2025/Spring 2026
 
 This repository contains my personal implementations of fundamental data structures using C++. The focus of these lab tasks was to understand memory management, pointer manipulation, and the efficiency of various algorithms.
 
